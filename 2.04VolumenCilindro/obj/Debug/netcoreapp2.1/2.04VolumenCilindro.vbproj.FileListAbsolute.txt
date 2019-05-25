@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\Procedimientos\2.04VolumenCilindro\obj\Debug\netcoreapp2.1\2.04VolumenCilindro.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.04VolumenCilindro\obj\Debug\netcoreapp2.1\2.04VolumenCilindro.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.04VolumenCilindro\obj\Debug\netcoreapp2.1\2.04VolumenCilindro.AssemblyInfo.vb
+D:\2019\Visual Basic\Procedimientos\2.04VolumenCilindro\bin\Debug\netcoreapp2.1\2.04VolumenCilindro.deps.json
+D:\2019\Visual Basic\Procedimientos\2.04VolumenCilindro\bin\Debug\netcoreapp2.1\2.04VolumenCilindro.runtimeconfig.json
+D:\2019\Visual Basic\Procedimientos\2.04VolumenCilindro\bin\Debug\netcoreapp2.1\2.04VolumenCilindro.runtimeconfig.dev.json
+D:\2019\Visual Basic\Procedimientos\2.04VolumenCilindro\bin\Debug\netcoreapp2.1\2.04VolumenCilindro.dll
+D:\2019\Visual Basic\Procedimientos\2.04VolumenCilindro\bin\Debug\netcoreapp2.1\2.04VolumenCilindro.pdb
+D:\2019\Visual Basic\Procedimientos\2.04VolumenCilindro\obj\Debug\netcoreapp2.1\2.04VolumenCilindro.dll
+D:\2019\Visual Basic\Procedimientos\2.04VolumenCilindro\obj\Debug\netcoreapp2.1\2.04VolumenCilindro.pdb

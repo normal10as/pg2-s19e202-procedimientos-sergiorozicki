@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\Procedimientos\2.06Acumuladora\bin\Debug\netcoreapp2.1\2.06Acumuladora.deps.json
+D:\2019\Visual Basic\Procedimientos\2.06Acumuladora\bin\Debug\netcoreapp2.1\2.06Acumuladora.runtimeconfig.json
+D:\2019\Visual Basic\Procedimientos\2.06Acumuladora\bin\Debug\netcoreapp2.1\2.06Acumuladora.runtimeconfig.dev.json
+D:\2019\Visual Basic\Procedimientos\2.06Acumuladora\bin\Debug\netcoreapp2.1\2.06Acumuladora.dll
+D:\2019\Visual Basic\Procedimientos\2.06Acumuladora\bin\Debug\netcoreapp2.1\2.06Acumuladora.pdb
+D:\2019\Visual Basic\Procedimientos\2.06Acumuladora\obj\Debug\netcoreapp2.1\2.06Acumuladora.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.06Acumuladora\obj\Debug\netcoreapp2.1\2.06Acumuladora.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.06Acumuladora\obj\Debug\netcoreapp2.1\2.06Acumuladora.AssemblyInfo.vb
+D:\2019\Visual Basic\Procedimientos\2.06Acumuladora\obj\Debug\netcoreapp2.1\2.06Acumuladora.dll
+D:\2019\Visual Basic\Procedimientos\2.06Acumuladora\obj\Debug\netcoreapp2.1\2.06Acumuladora.pdb

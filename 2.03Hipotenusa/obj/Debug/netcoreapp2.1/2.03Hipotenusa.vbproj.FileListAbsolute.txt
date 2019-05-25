@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\Procedimientos\2.03Hipotenusa\bin\Debug\netcoreapp2.1\2.03Hipotenusa.deps.json
+D:\2019\Visual Basic\Procedimientos\2.03Hipotenusa\bin\Debug\netcoreapp2.1\2.03Hipotenusa.runtimeconfig.json
+D:\2019\Visual Basic\Procedimientos\2.03Hipotenusa\bin\Debug\netcoreapp2.1\2.03Hipotenusa.runtimeconfig.dev.json
+D:\2019\Visual Basic\Procedimientos\2.03Hipotenusa\bin\Debug\netcoreapp2.1\2.03Hipotenusa.dll
+D:\2019\Visual Basic\Procedimientos\2.03Hipotenusa\bin\Debug\netcoreapp2.1\2.03Hipotenusa.pdb
+D:\2019\Visual Basic\Procedimientos\2.03Hipotenusa\obj\Debug\netcoreapp2.1\2.03Hipotenusa.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.03Hipotenusa\obj\Debug\netcoreapp2.1\2.03Hipotenusa.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.03Hipotenusa\obj\Debug\netcoreapp2.1\2.03Hipotenusa.AssemblyInfo.vb
+D:\2019\Visual Basic\Procedimientos\2.03Hipotenusa\obj\Debug\netcoreapp2.1\2.03Hipotenusa.dll
+D:\2019\Visual Basic\Procedimientos\2.03Hipotenusa\obj\Debug\netcoreapp2.1\2.03Hipotenusa.pdb

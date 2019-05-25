@@ -1,0 +1,11 @@
+D:\2019\Visual Basic\Procedimientos\2.01AhoraEs\bin\Debug\netcoreapp2.1\2.01AhoraEs.deps.json
+D:\2019\Visual Basic\Procedimientos\2.01AhoraEs\bin\Debug\netcoreapp2.1\2.01AhoraEs.runtimeconfig.json
+D:\2019\Visual Basic\Procedimientos\2.01AhoraEs\bin\Debug\netcoreapp2.1\2.01AhoraEs.runtimeconfig.dev.json
+D:\2019\Visual Basic\Procedimientos\2.01AhoraEs\bin\Debug\netcoreapp2.1\2.01AhoraEs.dll
+D:\2019\Visual Basic\Procedimientos\2.01AhoraEs\bin\Debug\netcoreapp2.1\2.01AhoraEs.pdb
+D:\2019\Visual Basic\Procedimientos\2.01AhoraEs\obj\Debug\netcoreapp2.1\2.01AhoraEs.vbprojAssemblyReference.cache
+D:\2019\Visual Basic\Procedimientos\2.01AhoraEs\obj\Debug\netcoreapp2.1\2.01AhoraEs.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.01AhoraEs\obj\Debug\netcoreapp2.1\2.01AhoraEs.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.01AhoraEs\obj\Debug\netcoreapp2.1\2.01AhoraEs.AssemblyInfo.vb
+D:\2019\Visual Basic\Procedimientos\2.01AhoraEs\obj\Debug\netcoreapp2.1\2.01AhoraEs.dll
+D:\2019\Visual Basic\Procedimientos\2.01AhoraEs\obj\Debug\netcoreapp2.1\2.01AhoraEs.pdb

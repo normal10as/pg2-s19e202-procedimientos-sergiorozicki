@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\Procedimientos\2.02NuevaFecha\bin\Debug\netcoreapp2.1\2.02NuevaFecha.deps.json
+D:\2019\Visual Basic\Procedimientos\2.02NuevaFecha\bin\Debug\netcoreapp2.1\2.02NuevaFecha.runtimeconfig.json
+D:\2019\Visual Basic\Procedimientos\2.02NuevaFecha\bin\Debug\netcoreapp2.1\2.02NuevaFecha.runtimeconfig.dev.json
+D:\2019\Visual Basic\Procedimientos\2.02NuevaFecha\bin\Debug\netcoreapp2.1\2.02NuevaFecha.dll
+D:\2019\Visual Basic\Procedimientos\2.02NuevaFecha\bin\Debug\netcoreapp2.1\2.02NuevaFecha.pdb
+D:\2019\Visual Basic\Procedimientos\2.02NuevaFecha\obj\Debug\netcoreapp2.1\2.02NuevaFecha.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.02NuevaFecha\obj\Debug\netcoreapp2.1\2.02NuevaFecha.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.02NuevaFecha\obj\Debug\netcoreapp2.1\2.02NuevaFecha.AssemblyInfo.vb
+D:\2019\Visual Basic\Procedimientos\2.02NuevaFecha\obj\Debug\netcoreapp2.1\2.02NuevaFecha.dll
+D:\2019\Visual Basic\Procedimientos\2.02NuevaFecha\obj\Debug\netcoreapp2.1\2.02NuevaFecha.pdb

@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\Procedimientos\2.07Sumas\bin\Debug\netcoreapp2.1\2.07Sumas.deps.json
+D:\2019\Visual Basic\Procedimientos\2.07Sumas\bin\Debug\netcoreapp2.1\2.07Sumas.runtimeconfig.json
+D:\2019\Visual Basic\Procedimientos\2.07Sumas\bin\Debug\netcoreapp2.1\2.07Sumas.runtimeconfig.dev.json
+D:\2019\Visual Basic\Procedimientos\2.07Sumas\bin\Debug\netcoreapp2.1\2.07Sumas.dll
+D:\2019\Visual Basic\Procedimientos\2.07Sumas\bin\Debug\netcoreapp2.1\2.07Sumas.pdb
+D:\2019\Visual Basic\Procedimientos\2.07Sumas\obj\Debug\netcoreapp2.1\2.07Sumas.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.07Sumas\obj\Debug\netcoreapp2.1\2.07Sumas.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.07Sumas\obj\Debug\netcoreapp2.1\2.07Sumas.AssemblyInfo.vb
+D:\2019\Visual Basic\Procedimientos\2.07Sumas\obj\Debug\netcoreapp2.1\2.07Sumas.dll
+D:\2019\Visual Basic\Procedimientos\2.07Sumas\obj\Debug\netcoreapp2.1\2.07Sumas.pdb

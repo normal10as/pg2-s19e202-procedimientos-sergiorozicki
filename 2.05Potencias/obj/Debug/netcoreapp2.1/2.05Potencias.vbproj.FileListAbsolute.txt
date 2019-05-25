@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\Procedimientos\2.05Potencias\bin\Debug\netcoreapp2.1\2.05Potencias.deps.json
+D:\2019\Visual Basic\Procedimientos\2.05Potencias\bin\Debug\netcoreapp2.1\2.05Potencias.runtimeconfig.json
+D:\2019\Visual Basic\Procedimientos\2.05Potencias\bin\Debug\netcoreapp2.1\2.05Potencias.runtimeconfig.dev.json
+D:\2019\Visual Basic\Procedimientos\2.05Potencias\bin\Debug\netcoreapp2.1\2.05Potencias.dll
+D:\2019\Visual Basic\Procedimientos\2.05Potencias\bin\Debug\netcoreapp2.1\2.05Potencias.pdb
+D:\2019\Visual Basic\Procedimientos\2.05Potencias\obj\Debug\netcoreapp2.1\2.05Potencias.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.05Potencias\obj\Debug\netcoreapp2.1\2.05Potencias.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.05Potencias\obj\Debug\netcoreapp2.1\2.05Potencias.AssemblyInfo.vb
+D:\2019\Visual Basic\Procedimientos\2.05Potencias\obj\Debug\netcoreapp2.1\2.05Potencias.dll
+D:\2019\Visual Basic\Procedimientos\2.05Potencias\obj\Debug\netcoreapp2.1\2.05Potencias.pdb

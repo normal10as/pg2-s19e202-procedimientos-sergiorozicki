@@ -1,0 +1,10 @@
+D:\2019\Visual Basic\Procedimientos\2.08SuperficieFiguras\bin\Debug\netcoreapp2.1\2.08SuperficieFiguras.deps.json
+D:\2019\Visual Basic\Procedimientos\2.08SuperficieFiguras\bin\Debug\netcoreapp2.1\2.08SuperficieFiguras.runtimeconfig.json
+D:\2019\Visual Basic\Procedimientos\2.08SuperficieFiguras\bin\Debug\netcoreapp2.1\2.08SuperficieFiguras.runtimeconfig.dev.json
+D:\2019\Visual Basic\Procedimientos\2.08SuperficieFiguras\bin\Debug\netcoreapp2.1\2.08SuperficieFiguras.dll
+D:\2019\Visual Basic\Procedimientos\2.08SuperficieFiguras\bin\Debug\netcoreapp2.1\2.08SuperficieFiguras.pdb
+D:\2019\Visual Basic\Procedimientos\2.08SuperficieFiguras\obj\Debug\netcoreapp2.1\2.08SuperficieFiguras.vbproj.CoreCompileInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.08SuperficieFiguras\obj\Debug\netcoreapp2.1\2.08SuperficieFiguras.AssemblyInfoInputs.cache
+D:\2019\Visual Basic\Procedimientos\2.08SuperficieFiguras\obj\Debug\netcoreapp2.1\2.08SuperficieFiguras.AssemblyInfo.vb
+D:\2019\Visual Basic\Procedimientos\2.08SuperficieFiguras\obj\Debug\netcoreapp2.1\2.08SuperficieFiguras.dll
+D:\2019\Visual Basic\Procedimientos\2.08SuperficieFiguras\obj\Debug\netcoreapp2.1\2.08SuperficieFiguras.pdb
